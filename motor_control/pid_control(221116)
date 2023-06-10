@@ -1,6 +1,6 @@
 #include<MsTimer2.h>
 
-//--------변수---------//
+//--------variables---------//
 
 int Ena = 6; int IN1 = 7; int IN2 = 8; // 핀번호 초기화
 int ang; int pos;
@@ -34,7 +34,7 @@ double Kd = 0.2;
 double Kaw = 0.2;
 
 
-//----------코드---------//
+//---------code---------//
 
 
  void setup() {
