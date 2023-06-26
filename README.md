@@ -28,5 +28,20 @@ The control input is adjusted using a derivative constant(Kd) that represents th
 ![image](https://github.com/ksky0222/Two_Wheel_bot_control-PID-control-/assets/109937431/2e23ce90-bcca-49e9-9796-ed5beeaad40c)
 
 
+https://github.com/ksky0222/Two_Wheel_bot_control-PID-control-/assets/109937431/6b15ef73-04bc-4cee-a3d3-a4c1ba0a27d9
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+I tried controlling a two-wheel robot by using the PID control mentioned above, and attempted basic motion control.
+
+- Straight driving
+
+https://github.com/ksky0222/Two_Wheel_bot_control-PID-control-/assets/109937431/8267d70e-1d53-4ab5-afc8-be2e1756cb40
+
+
+- Pivot turning driving
+
+https://github.com/ksky0222/Two_Wheel_bot_control-PID-control-/assets/109937431/d06f76fe-a885-4e41-982c-20bc31c467da
 
 
