@@ -23,3 +23,8 @@ The Control input is adjusted using an integral constant(Ki) that represents the
 Adjusts the control input based on the rate change of the error.
 Derivative control tracks the rate of change of the error, providing fast response and stability.
 The control input is adjusted using a derivative constant(Kd) that represents the weighting of the error's rate of change.
+
+![image](https://github.com/ksky0222/Two_Wheel_bot_control-PID-control-/assets/109937431/901c6857-0c3e-463c-8066-b85e72e30320)
+
+
+
