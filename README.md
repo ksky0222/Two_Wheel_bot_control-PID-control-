@@ -1,6 +1,6 @@
 # Two_Wheel_bot_control-with_pid_control
 
-What is PID control?
+## What is PID control?
 
 PID control is an abbreviation for Proportional-Integral-Derivative control, which is one of the most commoly used control algorithms in contorl systems.
 PID control compares the feedback signal from sensors with a desired setpoint to generate a control input signal and reduce the system's error.
